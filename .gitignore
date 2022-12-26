@@ -1,2 +1,6 @@
 # 設定ファイル
 setting.py
+
+# pycache
+__pycache__
+
